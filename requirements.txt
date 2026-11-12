@@ -1,0 +1,6 @@
+crewai[litellm]
+streamlit
+python-dotenv
+ddgs
+reportlab
+requests
